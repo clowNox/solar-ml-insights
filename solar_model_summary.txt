@@ -1,0 +1,9 @@
+
+Solar ROI Analysis Summary
+
+1. ROI RMSE: 1035.22 | R² Score: 0.79
+2. Payback RMSE: 4.25 | R² Score: 0.71
+3. Monthly Savings RMSE: 1221.10 | R² Score: 0.67
+4. High ROI Classifier Accuracy: 0.89 | ROC AUC: 0.91
+
+This output summarizes the performance of all four ML models trained on our solar dataset.
